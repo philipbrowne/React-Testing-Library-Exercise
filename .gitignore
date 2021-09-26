@@ -1,0 +1,22 @@
+/carousel/node_modules
+
+/coin-flip/node_modules
+/coin-flip/.pnp
+/coin-flip/.pnp.js
+
+# testing
+/coin-flip/coverage
+
+# production
+/coin-flip/build
+
+# misc
+/coin-flip/.DS_Store
+/coin-flip/.env.local
+/coin-flip/.env.development.local
+/coin-flip/.env.test.local
+/coin-flip/.env.production.local
+
+/coin-flip/npm-debug.log*
+/coin-flip/yarn-debug.log*
+/coin-flip/yarn-error.log*
